@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 英语学习小组（英习小组）企划 v1.0
 
-You can use the [editor on GitHub](https://github.com/zijing07/EnglishLearn-v1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我们会在这个空间记录、分享一些英语学习材料，以方便大家一起学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zijing07/EnglishLearn-v1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 课程内容
+- 朗读练习
+  - 分享有趣的文章
+  - 通过朗读，训练口语的“说”的能力
+  - 有趣的文章也能促进大家在群里的交流
+- 课上交流
+  通过各种形式的交流练习，帮助大家提升沟通能力，比如：
+  - 模拟面试：通过1-2个问题，进行一场短小、快速的模拟面试交流
+  - Presentation：鼓励分享你的专业知识，在5-10分钟的演示过程中，组员们与你一起互动
+- 课下作业
+  形式包括写作、听写等
