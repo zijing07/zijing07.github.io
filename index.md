@@ -16,3 +16,5 @@
 
 ### 课程内容
 - [朗读课文章](articles.md)
+- [写作练习](writing.md)
+- [听力练习](listening.md)
