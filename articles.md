@@ -7,4 +7,4 @@
 1. [How to Do What You Love](./articles/how_to_do_what_you_love.md)
 1. [The ‘Batman Effect’: How having an alter ego empowers you](./articles/the_batman_effect.md)
 1. [College-Educated Professionals Are Capitalism’s Useful Idiots](./articles/college-Educated_professionals.md)
-
+1. [Why This Wave of Anti-Asian Racism Feels Different](./articles/why_this_wave.md)
