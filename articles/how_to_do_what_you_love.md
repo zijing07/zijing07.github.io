@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## How to do what you love
 
 January 2006
@@ -160,3 +162,5 @@ Notes
 
 [7] A more accurate metaphor would be to say that the graph of jobs is not very well connected.
 
+
+[HOME](../index.md)

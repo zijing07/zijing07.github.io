@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## College-Educated Professionals Are Capitalism’s Useful Idiots
 
 `How I got co-opted into helping the rich prevail at the expense of everybody else`
@@ -168,3 +170,5 @@ But we really don’t know where the national experience of the pandemic will le
 The United States used to be called the New World. It’s a new world again, maybe the way it was becoming new in the 1910s. Lippmann was pragmatic, in many ways conservative, in no way a utopian, but back at that chaotic, pivotal moment he quoted Oscar Wilde’s line that “a map of the world that does not include Utopia is not worth even glancing at,” because social progress only comes by navigating toward hopeful visions of perfection. “Our business is not to lay aside the dream,” Lippman explained, “but to make it plausible. Drag dreams out into the light of day, show their sources, compare them with fact, transform them to possibilities … a dream … with a sense of the possible.” He also wrote that the urgent national inflection-point struggle a century ago was “between those who are willing to enter upon an effort for which there is no precedent, and those who aren’t. In a real sense it is an adventure.”
 
 So let’s go already.
+
+[HOME](../index.md)

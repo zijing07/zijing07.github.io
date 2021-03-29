@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## Beauty and the Beast
 
 Phil Donahue
@@ -27,3 +29,5 @@ How could the same hands that carved these stones and stained this glass have wi
 Why do we do the things we do? Why, after thousands of years of personal tragedies and group catastrophes, do we continue to make the same mistake? Why do we persist in the same contradictory behavior day after day, century after century, alternating between Chartres and the Crusades, between grief and gore, between moonwalks and megatons?
 
 These questions aren’t just for the historians and the sociologists. They’re for everyone who wrestles with these contradictory drives in his or her own life. The impulse that sends a society back to war, despite the knowledge that children will die and mother will grieve, is the same impulse that leads you to light up another cigarette or have “one more for road,” despite the knowledge that it may kill you. We live with contradictions in our own behavior—and the behavior of others—every day. Are they a permanent part of the human condition, or can we do something about them?
+
+[HOME](../index.md)

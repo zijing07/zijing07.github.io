@@ -1,3 +1,5 @@
+[HOME](./index.md)
+
 ## 朗读课文章
 
 1. [Hackers and Painters](./articles/hackers_and_painters.md)
@@ -8,3 +10,4 @@
 1. [The ‘Batman Effect’: How having an alter ego empowers you](./articles/the_batman_effect.md)
 1. [College-Educated Professionals Are Capitalism’s Useful Idiots](./articles/college-Educated_professionals.md)
 1. [Why This Wave of Anti-Asian Racism Feels Different](./articles/why_this_wave.md)
+1. [Is It Safe to Go Back to Group Exercise Class at the Gym?](./articles/is_it_safe.md)

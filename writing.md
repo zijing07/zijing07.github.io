@@ -1,3 +1,5 @@
+[HOME](./index.md)
+
 ## 写作练习题
 
 1. [A thank-you message](writings/a_thank-you_message.md)

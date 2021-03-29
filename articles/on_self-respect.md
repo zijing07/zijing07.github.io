@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## on self-respect
 
 by Joan Didion
@@ -23,3 +25,5 @@ But those small disciplines are valuable only insofar as they represent larger o
  To have that sense of one's intrinsic worth which constitutes self-respect is potentially to have everything: the ability to discriminate, to love, and to remain indifferent. To lack it is to be locked within oneself, paradoxically incapable of either love or indifference. If we do not respect ourselves, we are on the one hand forced to despise those who have so few resources as to consort with us, so little perception as to remain blind to our fatal weaknesses. On the other, we are peculiarly in thrall to everyone we see, curiously determined to live out--since our self-image is untenable--their false notions of us. We flatter ourselves by thinking this compulsion to please others an attractive trait: a gist for imaginative empathy, evidence to our willingness to give. Of course I will play Francesca to your Paolo, Helen Keller to anyone's Annie Sullivan: no expectation is too misguided, no role too ludicrous. At the mercy of those we cannot but hold in contempt, we play roles doomed to failure before they are begun, each defeat generating fresh despair at the urgency of divining and meeting the next demand made upon us.
 
 It is the phenomenon sometimes called "alienation from self". In its advanced stages, we no longer answer the telephone, because someone might want something; that we could say no without drowning in self-reproach is an idea alien to this game. Every encounter demands too much, tears the nerves, drains the will, and the specter of something as small as an unanswered letter arouses such disproportionate guilt that answering it becomes out of the question. To assign unanswered letters their proper weight, to free us from the expectations of others, to give us back to ourselves--there lies the great, the singular power of self-respect. Without it, one eventually discovers the final turn of the screw: one runs away to find oneself and finds no one at home.
+
+[HOME](../index.md)

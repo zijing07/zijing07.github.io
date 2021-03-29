@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## How To Make Wealth
 
 May 2004
@@ -281,3 +283,4 @@ What's the connection? None at all. Which is precisely my point. If you want to 
 
 [11] It may indeed be a sufficient condition. But if so, why didn't the Industrial Revolution happen earlier? Two possible (and not incompatible) answers: (a) It did. The Industrial Revolution was one in a series. (b) Because in medieval towns, monopolies and guild regulations initially slowed the development of new means of production.
 
+[HOME](../index.md)

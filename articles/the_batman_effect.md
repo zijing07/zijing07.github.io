@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## The ‘Batman Effect’: How having an alter ego empowers you
 
 ### Section 1
@@ -68,3 +70,5 @@ If you want to try it yourself, White suggests picking a different person for di
 Whatever persona we choose, the practice should create some psychological space away from potentially distracting feelings, while also reminding us of the behaviours we want to emulate. Whether we’re placing ourselves in the shoes of a friend, a religious figure, or Beyoncé herself, a little imagination might put us all a little closer to the person we wish to become.
 
 David Robson is the author of The Intelligence Trap: Why Smart People Do Dumb Things (WW Norton/Hodder & Stoughton), which examines the cutting-edge psychology of irrational thinking and the best ways to make wiser decisions.
+
+[HOME](../index.md)

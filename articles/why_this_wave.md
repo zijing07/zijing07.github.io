@@ -1,3 +1,5 @@
+[HOME](../index.md)
+
 ## Why This Wave of Anti-Asian Racism Feels Different
 
 `The author Cathy Park Hong sees the recent upsurge in violence as a turning point for Asian Americans.`
@@ -88,3 +90,5 @@ I want to listen. That’s really the policy that all of us should have right no
 **Ome**: Is there anything else you want to add?
 
 **Hong**: As cynical as I sometimes sound, the fact that anti-Asian violent incidents are being documented, and that people are talking about them, is progress. Because that wasn’t happening before, not when I was growing up. A lot of Asian Americans are more vocal, organized, radicalized, and progressive. And we’re not going to go back.
+
+[HOME](../index.md)
