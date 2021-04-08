@@ -57,6 +57,8 @@ No, that would be scary. I leave everything where it is. When I’m not writing,
 
 A kind of epiphany—that’s what it was. I love baseball, and I go to the ballpark often. In 1978, when I was twenty-nine, I went to the baseball park in Tokyo to see my favorite team, the Yakult Swallows. It was opening day, a very sunny day. I was watching the game and the first batter hit a double, and at that moment I got a feeling I could write. Maybe I’d drunk too much beer—I don’t know—but at that time it was as if I’d had some kind of epiphany. Before that I hadn’t written anything at all. I was the owner of a jazz club, and I was so busy making cocktails and sandwiches. I make very good sandwiches! But after that game I went to the stationery store and bought some supplies, and then I started writing and I became a writer.
 
+### Section 2
+
 **That was forty years ago. How has writing changed for you in that time?**
 
 I have changed a lot. When I started writing, I didn’t know how to write—I wrote in a very strange way, but people actually liked it. Now I don’t much care for my first book, “Hear the Wind Sing”; it was too soon for me to publish. Many years ago, I was sitting on the train in Tokyo, reading a book, and a very beautiful girl came over to me and said, “Are you Mr. Murakami?” “Yes, I’m Mr. Murakami.” “I’m a great fan of your books.” “Thank you so much.” “And I have read all of your books, and I love them.” “Thank you, I appreciate it.” Then she said, “I loved your first book the most—that’s the best one, I think.” “Oh, you think so?” And she said, “You have been getting worse.” So I got used to criticism. But I don’t agree. I think I’m getting better. For forty years I have been trying to get better, and I think I have.
@@ -74,8 +76,6 @@ Then I wrote “A Wild Sheep Chase.” I wanted to write a big book.
 **And was it easy to write the bigger books, or was it more of a challenge?**
 
 When I wrote “A Wild Sheep Chase,” I was very excited, because I didn’t know what was going to happen next. I couldn’t wait for the next day to come so that I could find out what would happen next. I wanted to turn the pages but there were no pages. I had to write them.
-
-### Section 2
 
 **Do you ever have a day where you have no idea what’s going to happen next? You sit down and you can’t write that day?**
 
@@ -112,6 +112,9 @@ Some people say it is a kind of metaphor for the subconscious. But I’m very in
 **You said in a Paris Review interview a few years ago that the driving force of your stories was “missing and searching and finding.” Do you think that’s still true?**
 
 Yes. That is a very big theme of my fiction—missing something and seeking it and finding it. My characters are often looking for something that has been lost. Sometimes it’s a girl, sometimes it’s a cause, sometimes it’s a purpose. But they are looking for something important, something critical, that was lost. But when the character finds it, there will be some kind of disappointment. I don’t know why, but that is a kind of motif in my fiction—looking for something and finding it, but it’s not a happy ending.
+
+### Section 3
+
 
 **Often the men you write about are somehow lost, emotionally or existentially. They don’t seem very at home in the world.**
 
@@ -183,6 +186,8 @@ Yes. After the 1995 earthquake in Kobe, I wrote a collection of short stories ca
 Because Kobe is my home town, it was too raw for me. I have many friends there. If I had interviewed those people, I would have been so depressed, so sad. But in fiction I could make up my own world, so it was easier for me. Violence can drive a hole through your mind, through your body. It can cut a passage to something very important. Before the quake, we thought that the ground was solid and hard, but not anymore. It can become unstable, unpredictable, soft. I think that was what I wanted to write.
 
 After that, there were so many more disasters—9/11, the tsunami, and others. I asked myself what I could do for the people who had suffered in those disasters, and I thought, What I can do is to write good fiction. Because when I write a good story, we can better understand one another. If you are a reader and I’m a writer, I don’t know you, but in the underground world of fiction there is a secret passageway between us: we can send messages to each other subconsciously. So I think that that is a way I can contribute.
+
+### Section 4
 
 **By writing, you send a message, but how do you get a message back?**
 
