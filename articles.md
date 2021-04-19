@@ -2,6 +2,9 @@
 
 ## 朗读课文章
 
+### Articles in v0.3
+1. [Is Your Team Solving Problems, or Just Identifying Them?](./articles/04-19.md)
+
 ### Articles in v0.2
 1. [They Know How to Prevent Megafires. Why Won’t Anybody Listen?](./articles/they_know_wildfire.md)
 1. [The Underground Worlds of Haruki Murakami](./articles/the_underground_haruki.md)
